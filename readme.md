@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Sa0loquin/Instant-Weather">
+  <a href="https://github.com/Saloquin/Instant-Weather">
     <img src="./assets/logo.png" alt="Logo Instant Weather" width="100" height="100">
   </a>
 
